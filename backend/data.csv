@@ -1,0 +1,71 @@
+Time,RowId,Action,Portfolio,Code,Name,Price,Quantity
+0,2,Add,Portfolio 1,7,HK FINANCE INV,0.092,100
+0,1,Add,Portfolio 1,5,HSBC HOLDINGS,31.09,100
+0,8,Add,Portfolio 2,68,LEE HING,1.21,100
+1,5,Add,Portfolio 2,51,HARBOUR CENTRE,7.1,50
+1,9,Add,Portfolio 1,68,LEE HING,1.21,50
+2,10,Add,Portfolio 2,293,CATHAY PAC AIR,5.86,100
+2,5,Update,Portfolio 2,51,HARBOUR CENTRE,7.1,75
+2,2,Update,Portfolio 1,7,HK FINANCE INV,0.091,100
+3,12,Add,Portfolio 1,388,HKEX,371.4,100
+4,14,Add,Portfolio 2,97,HENDERSON INV,0.43,100
+5,14,Update,Portfolio 2,97,HENDERSON INV,0.431,200
+5,15,Add,Portfolio 2,215,HUTCHTEL HK,1.16,100
+6,1,Update,Portfolio 1,5,HSBC HOLDINGS,32.05,100
+6,16,Add,Portfolio 2,83,SINO LAND,9.84,750
+7,13,Add,Portfolio 2,388,HKEX,372.3,150
+8,8,Update,Portfolio 2,68,LEE HING,1.22,150
+8,9,Update,Portfolio 1,68,LEE HING,1.22,50
+9,2,Delete,Portfolio 1,7,HK FINANCE INV,0.09,0
+10,14,Update,Portfolio 2,97,HENDERSON INV,0.46,300
+11,6,Add,Portfolio 1,51,HARBOUR CENTRE,7.1,25
+12,12,Update,Portfolio 1,388,HKEX,371.5,100
+13,7,Add,Portfolio 1,55,NEWAY GROUP,0.33,100
+14,10,Update,Portfolio 2,293,CATHAY PAC AIR,5.87,125
+14,11,Add,Portfolio 1,293,CATHAY PAC AIR,5.87,150
+16,6,Delete,Portfolio 1,51,HARBOUR CENTRE,7.1,0
+20,13,Update,Portfolio 2,388,HKEX,372.4,175
+21,8,Update,Portfolio 2,68,LEE HING,1.25,150
+22,2,Add,Portfolio 1,7,HK FINANCE INV,0.08,120
+24,4,Add,Portfolio 2,19,SWIRE PACIFIC A,37.65,120
+26,16,Update,Portfolio 2,83,SINO LAND,9.845,750
+27,14,Update,Portfolio 2,97,HENDERSON INV,0.47,300
+28,10,Update,Portfolio 2,293,CATHAY PAC AIR,5.75,125
+28,11,Update,Portfolio 2,293,CATHAY PAC AIR,5.75,125
+29,1,Update,Portfolio 1,5,HSBC HOLDINGS,32.11,100
+30,9,Delete,Portfolio 1,68,LEE HING,1.23,50
+30,8,Update,Portfolio 2,68,LEE HING,1.23,150
+32,3,Add,Portfolio 1,8,PCCW,4.94,150
+35,7,Update,Portfolio 1,55,NEWAY GROUP,0.32,100
+36,3,Update,Portfolio 1,8,PCCW,4.942,150
+37,4,Update,Portfolio 2,19,SWIRE PACIFIC A,36,120
+39,13,Update,Portfolio 2,388,HKEX,372.5,175
+41,2,Update,Portfolio 1,7,HK FINANCE INV,0.07,120
+41,9,Add,Portfolio 1,68,LEE HING,1.22,50
+41,8,Update,Portfolio 2,68,LEE HING,1.22,150
+41,16,Update,Portfolio 2,83,SINO LAND,9.848,750
+42,5,Update,Portfolio 2,51,HARBOUR CENTRE,7.1,100
+42,1,Update,Portfolio 1,5,HSBC HOLDINGS,32.18,100
+45,16,Delete,Portfolio 2,83,SINO LAND,9.846,750
+46,12,Delete,Portfolio 1,388,HKEX,372.1,0
+47,10,Update,Portfolio 2,293,CATHAY PAC AIR,5.6,125
+47,11,Update,Portfolio 1,293,CATHAY PAC AIR,5.6,150
+49,1,Update,Portfolio 1,5,HSBC HOLDINGS,31.95,100
+50,14,Update,Portfolio 2,97,HENDERSON INV,0.45,300
+50,4,Update,Portfolio 2,19,SWIRE PACIFIC A,35.5,120
+51,2,Delete,Portfolio 1,7,HK FINANCE INV,0.65,0
+53,1,Update,Portfolio 1,5,HSBC HOLDINGS,31.63,100
+53,9,Delete,Portfolio 1,68,LEE HING,1.2,0
+53,8,Update,Portfolio 2,68,LEE HING,1.2,150
+53,3,Update,Portfolio 1,8,PCCW,4.942,200
+53,4,Delete,Portfolio 2,19,SWIRE PACIFIC A,34.3,0
+54,7,Delete,Portfolio 1,55,NEWAY GROUP,0.33,100
+54,3,Delete,Portfolio 1,8,PCCW,4.935,0
+55,11,Delete,Portfolio 1,293,CATHAY PAC AIR,5.6,0
+56,5,Delete,Portfolio 2,51,HARBOUR CENTRE,7,0
+56,15,Delete,Portfolio 2,215,HUTCHTEL HK,1.18,0
+57,10,Delete,Portfolio 2,293,CATHAY PAC AIR,5.55,0
+58,1,Delete,Portfolio 1,5,HSBC HOLDINGS,31.6,0
+59,14,Delete,Portfolio 2,97,HENDERSON INV,0.435,0
+59,13,Delete,Portfolio 2,388,HKEX,372.8,0
+59,8,Delete,Portfolio 2,68,LEE HING,1.18,0

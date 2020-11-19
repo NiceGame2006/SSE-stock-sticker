@@ -1,0 +1,83 @@
+<div>
+  <table class="webgrid">
+    <thead>
+      <tr>
+        <th>Time</th>
+        <th>RowId</th>
+        <th>Action</th>
+        <th>Portfolio</th>
+        <th>Code</th>
+        <th>Name</th>
+        <th>Price</th>
+        <th>Quantity</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr *ngFor="let record of records; let i = index;">
+        <td> <span>{{record.Time}}</span> </td>
+        <td> <span>{{record.RowId}}</span> </td>
+        <td> <span>{{record.Action}}</span> </td>
+        <td> <span>{{record.Portfolio}}</span> </td>
+        <td> <span>{{record.Code}}</span> </td>
+        <td> <span>{{record.Name}}</span> </td>
+        <td> <span>{{record.Price}}</span> </td>
+        <td> <span>{{record.Quantity}}</span> </td>
+      </tr>
+    </tbody>
+  </table>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- <div>
+  <button (click)="RefreshData()">RefreshData</button>
+  <button (click)="ClearData()">ClearData</button>
+
+  <table class="webgrid">
+    <thead>
+      <tr>
+        <th>Time</th>
+        <th>RowId</th>
+        <th>Action</th>
+        <th>Portfolio</th>
+        <th>Code</th>
+        <th>Name</th>
+        <th>Price</th>
+        <th>Quantity</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr *ngFor="let record of records; let i = index;">
+        <td> <span>{{record.Time}}</span> </td>
+        <td> <span>{{record.RowId}}</span> </td>
+        <td> <span>{{record.Action}}</span> </td>
+        <td> <span>{{record.Portfolio}}</span> </td>
+        <td> <span>{{record.Code}}</span> </td>
+        <td> <span>{{record.Name}}</span> </td>
+        <td> <span>{{record.Price}}</span> </td>
+        <td> <span>{{record.Quantity}}</span> </td>
+      </tr>
+    </tbody>
+  </table>
+
+</div> -->
